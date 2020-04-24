@@ -1,0 +1,29 @@
+ext {
+    versions = [
+            springBootVersion: '2.0.0.RELEASE'
+    ]
+    libs = [
+            common : [
+                    "org.springframework.boot:spring-boot-starter-web:${versions.springBootVersion}",
+                    "org.springframework.boot:spring-boot-starter-data-jpa:${versions.springBootVersion}",
+                    "org.apache.commons:commons-lang3:3.5",
+                    "com.h2database:h2:1.4.195"
+            ],
+            mysql  : [
+//                    "mysql:mysql-connector-java:6.0.6"
+                    "mysql:mysql-connector-java:8.0.16"
+            ],
+            test   : [
+                    "org.springframework.boot:spring-boot-starter-test:${versions.springBootVersion}"
+
+            ],
+            swagger: [
+                    "io.springfox:springfox-swagger2:2.7.0",
+                    "io.springfox:springfox-swagger-ui:2.7.0"
+            ],
+            rsa:[
+                    'commons-codec:commons-codec:1.8'
+            ],
+            JWT:['com.auth0:java-jwt:3.4.0']
+    ]
+}

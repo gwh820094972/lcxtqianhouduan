@@ -1,0 +1,5 @@
+dependencies{
+    compile libs.rsa
+    compile libs.JWT
+    compile project(":entity")
+}

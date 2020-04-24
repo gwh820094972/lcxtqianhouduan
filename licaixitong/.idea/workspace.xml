@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87c77279-1fd6-44e7-ac30-dde990f711d0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="financial" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="financial" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="financial" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="financial" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yw1Nn4q1NMQToIiRxaKVOmg0rj" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lcxtvue/lcxtvue" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gwh.seller.service" />
+      <recent name="com.gwh.seller.controller" />
+      <recent name="com.gwh.seller.repositories" />
+      <recent name="com.gwh.manager.service" />
+      <recent name="com.gwh.seller.params" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82009\Desktop\licaixitong\manager\src\main\java\com\gwh\manager" />
+      <recent name="C:\Users\82009\Desktop\licaixitong\seller\src\main\java\com\gwh\seller" />
+      <recent name="C:\Users\82009\Desktop\licaixitong\seller\src\main\resources" />
+      <recent name="C:\Users\82009\Desktop\licaixitong\seller\src\main\java\com\gwh\seller\service" />
+      <recent name="C:\Users\82009\Desktop\licaixitong\swagger\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SellerApp">
+    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gwh.manager.ManagerApp" />
+      <module name="financial.manager.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwh.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gwh.seller.SellerApp" />
+      <module name="financial.seller.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwh.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductControllerTest.zfindOne" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gwh.manager.controller.ProductControllerTest.zfindOne&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":manager:cleanTest" />
+            <option value=":manager:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RSAUtilTest.signTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gwh.util.RSAUtilTest.signTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":util:cleanTest" />
+            <option value=":util:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="licaixitong [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RSAUtilTest.signTest" />
+        <item itemvalue="Gradle.licaixitong [dependencies]" />
+        <item itemvalue="Application.SellerApp" />
+        <item itemvalue="Application.ManagerApp" />
+        <item itemvalue="Gradle.ProductControllerTest.zfindOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c77279-1fd6-44e7-ac30-dde990f711d0" name="Default Changelist" comment="" />
+      <created>1583838804560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583838804560</updated>
+      <workItem from="1583838808594" duration="16270000" />
+      <workItem from="1583902048877" duration="5812000" />
+      <workItem from="1583913068587" duration="6586000" />
+      <workItem from="1583934562449" duration="7160000" />
+      <workItem from="1583997304427" duration="6698000" />
+      <workItem from="1584004590372" duration="10098000" />
+      <workItem from="1584025969728" duration="570000" />
+      <workItem from="1584083075857" duration="8543000" />
+      <workItem from="1584103822985" duration="7372000" />
+      <workItem from="1584170375741" duration="4325000" />
+      <workItem from="1584178758645" duration="735000" />
+      <workItem from="1584182775066" duration="425000" />
+      <workItem from="1584191618539" duration="7691000" />
+      <workItem from="1584256186402" duration="3334000" />
+      <workItem from="1584273223533" duration="10601000" />
+      <workItem from="1584359692684" duration="11440000" />
+      <workItem from="1584427091345" duration="8404000" />
+      <workItem from="1584447278929" duration="7106000" />
+      <workItem from="1584526243865" duration="2063000" />
+      <workItem from="1584882401164" duration="9115000" />
+      <workItem from="1584969359647" duration="6036000" />
+      <workItem from="1585037233704" duration="552000" />
+      <workItem from="1585041046016" duration="28000" />
+      <workItem from="1585134386783" duration="5190000" />
+      <workItem from="1585145376502" duration="1781000" />
+      <workItem from="1585207828965" duration="2375000" />
+      <workItem from="1585378566468" duration="4636000" />
+      <workItem from="1585640219287" duration="1568000" />
+      <workItem from="1585665729442" duration="3346000" />
+      <workItem from="1585728069904" duration="2664000" />
+      <workItem from="1585742454739" duration="7922000" />
+      <workItem from="1585810632480" duration="2413000" />
+      <workItem from="1585831473970" duration="3509000" />
+      <workItem from="1585842801389" duration="635000" />
+      <workItem from="1585898839281" duration="8393000" />
+      <workItem from="1585914648195" duration="755000" />
+      <workItem from="1586006027791" duration="5974000" />
+      <workItem from="1586092590089" duration="2484000" />
+      <workItem from="1586161197878" duration="1567000" />
+      <workItem from="1586178791658" duration="829000" />
+      <workItem from="1586244434073" duration="927000" />
+      <workItem from="1586252336246" duration="741000" />
+      <workItem from="1586262567238" duration="4397000" />
+      <workItem from="1586328003162" duration="5371000" />
+      <workItem from="1586413853323" duration="7438000" />
+      <workItem from="1586423264314" duration="7692000" />
+      <workItem from="1586500375370" duration="2035000" />
+      <workItem from="1586523915856" duration="4669000" />
+      <workItem from="1586594654194" duration="9060000" />
+      <workItem from="1586872252196" duration="1852000" />
+      <workItem from="1586885739316" duration="7982000" />
+      <workItem from="1586931796841" duration="4551000" />
+      <workItem from="1587194756109" duration="3088000" />
+      <workItem from="1587391633747" duration="3966000" />
+      <workItem from="1587731442719" duration="4984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/manager/src/main/java/com/gwh/manager/ManagerApp.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seller/src/main/java/com/gwh/seller/repositories/UserRepository.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seller/src/main/java/com/gwh/seller/SellerApp.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+spring:
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+  datasource:
+#    url: jdbc:mysql://localhost:3306/manager?user=javauser&password=javauser&useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://localhost:3306/seller?user=javauser&password=javauser&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true
+#    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  #    url: jdbc:h2:mem:manager;DB_CLOSE_ON_EXIT=FALSE
+  jpa:
+    show-sql: true
+  #    generate-ddl: true
+  #    hibernate:
+  #      ddl-auto: create-drop
+#  activemq:
+#    broker-url: tcp://10.5.16.14:61616
+#  jms:
+#    pub-sub-domain: true
+server:
+  servlet:
+    context-path: /seller
+  port: 8882
+swagger:
+  groupName: seller
+  basePackage: com.gwh.seller.controller
+#  访问 http://localhost:8082/seller/swagger-ui.html#/
+
+#logging:
+#  level:
+#    com.googlecode.jsonrpc4j: debug
